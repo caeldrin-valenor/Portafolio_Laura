@@ -1,0 +1,6 @@
+PORTAFOLIO DE LAURA VALENTINA CAMACHO - VERSIÓN PUBLICADA (SOLO LECTURA)
+
+- index.html pesa 22 KB (antes 13 MB). Las imágenes, modelos y videos están en "assets".
+- Los 3 personajes 3D (Alien, Tortuga y Pollo) quedan fijos en su diapositiva y se cargan al llegar a ella.
+- Los 4 videos quedan fijos en la sección "Mis videos".
+- Se quitaron las opciones de edición: subir modelos o videos, borrar, mover y agregar espacios.
